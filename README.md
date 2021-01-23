@@ -1,1 +1,0 @@
-![Curriculum](Curriculum.JPG)
